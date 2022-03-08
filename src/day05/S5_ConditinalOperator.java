@@ -20,6 +20,9 @@ public class S5_ConditinalOperator {
 
         System.out.println(x<y || x+y <0 || x*y>0);
 
+         System.out.println("Githup'tan merhaba");
+
+
 
         }
 
