@@ -22,6 +22,9 @@ public class S5_ConditinalOperator {
 
          System.out.println("Githup'tan merhaba");
 
+        System.out.println("pc'den merhaba");
+        System.out.println("pc'den merhaba  222  222");
+
 
 
         }
