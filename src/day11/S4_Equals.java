@@ -7,8 +7,10 @@ public class S4_Equals {
         // String olarak esit olp olmadiklarina bakar
 
         String str = "Ali Can";
-        String str2 ="Ali Can";
+        String str2 ="Ali can";
 
         System.out.println(str.equals(str2));
+
+        System.out.println(str.equals(str2)? "esit":"esit degildir");
     }
 }
