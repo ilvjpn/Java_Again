@@ -16,11 +16,11 @@ public class S5_LastIndexof {
         if (str2.indexOf("saman")==-1) {
             System.out.println("saman icermiyor");
 
-        }else if (str2.lastIndexOf("saman")==str2.indexOf("saman")){
-            System.out.println("bir saman iceriyor");
+        }else if (str2.lastIndexOf("saman")!=str2.indexOf("saman")){
+            System.out.println("iki saman iceriyor");
 
         }else{
-            System.out.println("birden fazla iceriyor");
+            System.out.println("bir iceriyor");
         }
 
 
