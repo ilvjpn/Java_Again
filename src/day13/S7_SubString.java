@@ -3,6 +3,7 @@ package day13;
 public class S7_SubString {
     public static void main(String[] args) {
 
+
         String str = "Her ders java gibi olsa";
 
 
@@ -18,5 +19,6 @@ public class S7_SubString {
 
 
         System.out.println(str.substring(10,10));  // ilk'i al der ikicisi alma der 
+
     }
 }
