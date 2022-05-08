@@ -17,15 +17,13 @@ public class Scope1 {
         method();
         System.out.println(okulAdi+" "+okulId+" "+ acikMi);
 
-
     }
-
     public static void method() {
         System.out.println(okulAdi+" "+okulId+" "+ acikMi);
         okulId=1203;
-        System.out.println("seni severim");
 
-        System.out.println(okulId);
+
+
 
 
 
@@ -33,6 +31,6 @@ public class Scope1 {
     }
 
     public void bos(){
-        okulId=1204;
+        okulId=1205;
     }
 }
